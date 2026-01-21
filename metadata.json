@@ -1,0 +1,7 @@
+{
+  "name": "LinkedIn to Web Portfolio",
+  "description": "Transform a long LinkedIn profile screenshot into a beautiful, scrollable one-page website. Simply upload your screenshot and let Gemini extract and format your professional identity.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
